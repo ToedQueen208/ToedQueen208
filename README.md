@@ -3,9 +3,12 @@
 My Name is Jayla
 Pronouns: They/Them
 
-About me
+# About me
 
+Im a nerdy aspiring software devloper who loves to code.
+I love using technology to help people and make the world more accessable for example my project I did on using Virtual Reality to help people with Claustrophobia.
 
+There are also some **whimsical projects** such as DungeDex, which turns Pokemon into a customisable DnD monster
 
 
 <!--
