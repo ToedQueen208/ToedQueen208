@@ -10,7 +10,7 @@ I love using technology to help people and make the world more accessable for ex
 
 There are also some **whimsical projects** such as DungeDex, which turns Pokemon into a customisable DnD monster 
 
-PLEASEEE Feel free to browse my projects 😄
+Feel free to browse my projects 😄
 
 <!--
 **ToedQueen208/ToedQueen208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
