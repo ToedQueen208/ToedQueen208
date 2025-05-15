@@ -8,9 +8,9 @@ Pronouns: They/Them
 Im a nerdy aspiring software developer who loves to code.
 I love using technology to help people and make the world more accessable for example my project I did on using Virtual Reality to help people with Claustrophobia.
 
-There are also some **whimsical projects** such as DungeDex, which turns Pokemon into a customisable DnD monster
+There are also some **whimsical projects** such as DungeDex, which turns Pokemon into a customisable DnD monster 
 
-Feel free to browse my projects 😄
+PLEASEEE Feel free to browse my projects 😄
 
 <!--
 **ToedQueen208/ToedQueen208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
